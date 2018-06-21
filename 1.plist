@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/HXHuangXiang/test/master/lanyazhushou.apk</string>
+                   <string>https://raw.githubusercontent.com/HXHuangXiang/test/master/xiaojuxiang.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -39,9 +39,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>专管员/巡检员 APP</string>
+               <string>小桔助手</string>
                <key>title</key>
-               <string>专管员/巡检员 APP</string>
+               <string>小桔助手</string>
            </dict>
        </dict>
    </array>
